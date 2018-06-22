@@ -1,0 +1,13 @@
+{
+  "id": "planetromeo",
+  "name": "PlanetRomeo",
+  "version": "1.0.0",
+  "description": "PlanetRomeo",
+  "main": "index.js",
+  "author": "Fabio Poloni <fabio@app-roved.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://m.planetromeo.com",
+    "hasNotificationSound": true
+  }
+}
